@@ -11,5 +11,5 @@ I'm Sebastian, Devops engieneer.
 - 🌱 I’m currently learning devsecops, SRE, Go
 - 💬 Ask me about any devops practice
 - 📫 How to reach me: jhonsfran@gmail.com 
-- ⚡ Stack: Infra as code with terrform, pullumi and packer. Kubernetes and Docker. Nodejs, python, TS and JS
+- ⚡ Stack: Infra as code with terraform, pullumi and packer. Kubernetes and Docker. Nodejs, python, TS and JS
 
