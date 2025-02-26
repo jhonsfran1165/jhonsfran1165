@@ -9,6 +9,7 @@ I'm Sebastian, Devops engieneer.
 
 - 🔭 I’m currently working on unprice, as software as a service that hepls you bussiness to interate on prices, datapipelines and kubernetes
 - 🌱 I’m currently learning UX/UI, how to architect low latency systems
+- MLOps and Kubernetes
 - 💬 Ask me about any devops practice and saas
 - 📫 How to reach me: jhonsfran@gmail.com 
 
