@@ -5,9 +5,9 @@
 ### Hi there 👋
 
 
-I'm Sebastian, Devops engieneer. 
+AI powered Engineer. I like to build stuff.
 
-- 🔭 I’m currently working on unprice, as software as a service that helps saas to interate on prices
+- 🔭 I’m currently working on unprice, as software as a service that helps saas to interate on prices.
 - 🌱 I’m currently learning UX/UI, how to architect low latency systems and AI stuff
 - 💬 Ask me about any devops practice and saas
 - 📫 How to reach me: jhonsfran@gmail.com 
